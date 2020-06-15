@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.11/x64" 1592241090
+<REAPER_PROJECT 0.1 "6.11/x64" 1592252206
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -129,7 +129,7 @@
       CHANMODE 0
       GUID {8A93128A-8218-4D48-9B01-4CEB74D1BA06}
       <SOURCE MP3
-        FILE "C:\Users\Rivasc01\Downloads\Audioslave - Like a Stone (Official Video).mp3" 1
+        FILE "Audios\Audioslave - Like a Stone (Official Video).mp3" 1
       >
     >
   >

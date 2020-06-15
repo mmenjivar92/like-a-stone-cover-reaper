@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.11/x64" 1592252206
+<REAPER_PROJECT 0.1 "6.11/x64" 1592252926
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -813,7 +813,7 @@
       GUID {C9C4D9E0-FA5C-4303-B04D-C01EEA612DBF}
       RECPASS 1
       <SOURCE WAVE
-        FILE "C:\Users\Rivasc01\OneDrive - StepStone Group\Documents\REAPER Media\03-Guitar OD-200610_1739.wav"
+        FILE "03-Guitar OD-200610_1739.wav"
       >
     >
     <ITEM
@@ -836,7 +836,7 @@
       GUID {1692385E-3EC1-4FB9-AF21-E9F60538420F}
       RECPASS 1
       <SOURCE WAVE
-        FILE "C:\Users\Rivasc01\OneDrive - StepStone Group\Documents\REAPER Media\03-Guitar OD-200610_1739.wav"
+        FILE "03-Guitar OD-200610_1739.wav"
       >
     >
     <ITEM
@@ -859,7 +859,7 @@
       GUID {B95F8169-3A2A-44ED-8FD4-F411EF2CF9D2}
       RECPASS 1
       <SOURCE WAVE
-        FILE "C:\Users\Rivasc01\OneDrive - StepStone Group\Documents\REAPER Media\03-Guitar OD-200610_1739.wav"
+        FILE "03-Guitar OD-200610_1739.wav"
       >
     >
     <ITEM
@@ -882,7 +882,7 @@
       GUID {984DE40F-E27B-48EB-9CFD-4BAF7CA50322}
       RECPASS 2
       <SOURCE WAVE
-        FILE "C:\Users\Rivasc01\OneDrive - StepStone Group\Documents\REAPER Media\04-200610_1746.wav"
+        FILE "04-200610_1746.wav"
       >
     >
     <ITEM
@@ -905,7 +905,7 @@
       GUID {E6759AE1-8678-4561-A28A-24ED7D01301C}
       RECPASS 2
       <SOURCE WAVE
-        FILE "C:\Users\Rivasc01\OneDrive - StepStone Group\Documents\REAPER Media\04-200610_1746.wav"
+        FILE "04-200610_1746.wav"
       >
     >
     <ITEM
@@ -928,7 +928,7 @@
       GUID {2C1788CF-74BF-463E-9141-33FBA676ACF7}
       RECPASS 2
       <SOURCE WAVE
-        FILE "C:\Users\Rivasc01\OneDrive - StepStone Group\Documents\REAPER Media\04-200610_1746.wav"
+        FILE "04-200610_1746.wav"
       >
     >
     <ITEM
